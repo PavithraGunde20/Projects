@@ -7,8 +7,8 @@
 // WIFI CONFIGURATION
 // ======================================================
  
-const char* ssid = "Network";
-const char* password = "1234567890";
+const char* ssid = "*********";
+const char* password = "*********";
  
 // ======================================================
 // ESP32-CAM STREAM
