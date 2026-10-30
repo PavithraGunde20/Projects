@@ -29,11 +29,22 @@ The ESP32 acts as the main controller, managing the robot's movement and connect
 
 ## Project Images
 
-Images of the completed robot will be added here.
+### Front View
+![Front View](Images/robot_front_view.jpg)
+
+### Side View
+![Side View](Images/robot_side_view.jpg)
+
+### Top View
+![Top View](Images/robot_top_view.jpg)
+
+### Working Prototype
+![Working Robot](Images/robot_working.jpg)
+
 
 ## Circuit Diagram
 
-The circuit diagram will be added here.
+![Circuit Diagram](Circuit_Diagram/ESP32_Robot_Circuit.png)
 
 ## Source Code
 
